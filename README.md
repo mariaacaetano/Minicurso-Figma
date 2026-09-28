@@ -1,18 +1,12 @@
-# Pulse — página principal
+# Tutorial — construindo a página da Pulse
 
-Esta branch contém a página da Pulse, desenvolvida com Vue 3 e Vite.
+Esta branch acompanha, passo a passo, a construção da página da Pulse: estrutura HTML/Vue, estilos, componentes, responsividade e acabamento visual.
 
-## Executar o projeto
+Consulte os commits e os arquivos desta branch na ordem apresentada durante o minicurso.
+
+## Executar
 
 ```bash
 npm install
 npm run dev
 ```
-
-Para gerar a versão de produção:
-
-```bash
-npm run build
-```
-
-As outras etapas do minicurso estão organizadas nas branches `tutorial/main`, `tutorial/vue` e `materiais`.
