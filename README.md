@@ -1,5 +1,7 @@
 # Minicurso Pulse — Vue, HTML e CSS
 
+![Material visual do minicurso](SEPE.e08e841373e04aa79490.webp)
+
 Bem-vindo ao minicurso de criação da página da Pulse.
 
 Neste curso, vamos transformar uma ideia visual em uma landing page responsiva usando Vue, HTML semântico e CSS, passando do planejamento à validação final.
@@ -26,7 +28,6 @@ Esta branch contém somente os materiais do minicurso na raiz do repositório. O
 - [Apostila do minicurso](Minicurso-Figma-Apostila.pdf)
 - [Slides do minicurso](Minicurso-Figma-Slides.pdf)
 - [Apostila de atalhos do Figma](<Atalhos Figma - apostila.png>)
-- [Material complementar](SEPE.e08e841373e04aa79490.webp)
 
 ## Avaliação do curso
 
