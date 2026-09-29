@@ -150,4 +150,4 @@ Revise o resultado visual, teste os links e confirme que o build termina sem err
 
 ## Sobre esta branch
 
-Esta branch contém apenas este README. Execute os comandos da seção 1 em uma nova pasta para criar o projeto. A branch `main` contém a implementação pronta da página Pulse para comparação após o exercício.
+Esta branch contém apenas este README. Execute os comandos da seção 1 em uma nova pasta para criar o projeto. A branch `pulse` contém a implementação pronta da página Pulse para comparação após o exercício.
