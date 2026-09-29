@@ -25,3 +25,9 @@ Minicurso introdutório de criação de interfaces digitais com Figma, apresenta
 ## Avaliação
 
 [Responder ao formulário de avaliação do curso](https://docs.google.com/forms/d/e/1FAIpQLScvRdF2hFD62r7rV-3aKogx8JD1vPmdIKLW7WoRUNVWzyBcDg/viewform?usp=dialog)
+
+## Quer continuar praticando?
+
+Se você gostou do exemplo da Pulse e quer descobrir como transformar essa ideia em uma página funcionando com Vue, fique à vontade para continuar explorando o repositório. Acesse a branch [`tutorial`](https://github.com/mariaacaetano/Minicurso-Figma/tree/tutorial) para acompanhar o passo a passo da construção do projeto ou visite a branch [`main`](https://github.com/mariaacaetano/Minicurso-Figma/tree/main) para conhecer a landing page pronta.
+
+Esperamos que esse próximo passo ajude você a experimentar, criar e levar suas próprias interfaces do Figma para a web. Bons estudos!
