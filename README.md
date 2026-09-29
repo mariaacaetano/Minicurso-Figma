@@ -1,4 +1,4 @@
-# Minicurso básico: Oficina de Interfaces Digitais com Figma
+# Minicuro Básico: Oficina de Interfaces Digitais com Figma
 
 ![Material visual do minicurso](SEPE.e08e841373e04aa79490.webp)
 
