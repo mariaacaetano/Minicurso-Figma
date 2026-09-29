@@ -22,6 +22,17 @@ Construiremos a página da Pulse com cabeçalho, navegação, seção hero, card
 - [`materiais/curso`](materiais/curso): exercícios, anotações e exemplos das aulas.
 - [`materiais/extras`](materiais/extras): referências para aprofundamento posterior.
 
+### Materiais disponíveis
+
+- [Apostila do minicurso](materiais/curso/Minicurso-Figma-Apostila.pdf)
+- [Slides do minicurso](materiais/curso/Minicurso-Figma-Slides.pdf)
+- [Apostila de atalhos do Figma](<materiais/curso/Atalhos Figma - apostila.png>)
+- [Material complementar](materiais/curso/SEPE.e08e841373e04aa79490.webp)
+
+## Avaliação do curso
+
+Depois do minicurso, responda ao [formulário de avaliação](https://docs.google.com/forms/d/e/1FAIpQLScvRdF2hFD62r7rV-3aKogx8JD1vPmdIKLW7WoRUNVWzyBcDg/viewform?usp=dialog). Seu retorno ajuda a melhorar as próximas turmas.
+
 ## Pré-requisitos
 
 - Node.js em versão LTS;
