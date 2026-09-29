@@ -17,13 +17,21 @@ Minicurso introdutório de criação de interfaces digitais com Figma, apresenta
 
 ## Materiais
 
-- [Apostila do minicurso](Minicurso-Figma-Apostila.pdf)
-- [Slides do minicurso](Minicurso-Figma-Slides.pdf)
-- [Exemplo guiado da Pulse no Figma](https://www.figma.com/design/DQiHEwg0yWNMPpImWSosiG/Exemplo-Pulse?node-id=0-1\&m=dev\&t=IuHkZucTRA14PNoT-1): passo a passo da construção do exemplo.
+Materiais para acompanhar a oficina e praticar depois:
+
+<p>
+  <a href="Minicurso-Figma-Apostila.pdf"><img src="https://img.shields.io/badge/Apostila%20do%20minicurso-FA009A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Apostila do minicurso"></a>
+  <a href="Minicurso-Figma-Slides.pdf"><img src="https://img.shields.io/badge/Slides%20do%20minicurso-FA009A?style=for-the-badge&logo=slides&logoColor=white" alt="Slides do minicurso"></a>
+  <a href="https://www.figma.com/design/DQiHEwg0yWNMPpImWSosiG/Exemplo-Pulse?node-id=0-1\&m=dev\&t=IuHkZucTRA14PNoT-1"><img src="https://img.shields.io/badge/Exemplo%20guiado%20no%20Figma-FA009A?style=for-the-badge&logo=figma&logoColor=white" alt="Exemplo guiado no Figma"></a>
+</p>
 
 ## Avaliação
 
-[Responder ao formulário de avaliação do curso](https://docs.google.com/forms/d/e/1FAIpQLScvRdF2hFD62r7rV-3aKogx8JD1vPmdIKLW7WoRUNVWzyBcDg/viewform?usp=dialog)
+Conte para nós como foi sua experiência:
+
+<p>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScvRdF2hFD62r7rV-3aKogx8JD1vPmdIKLW7WoRUNVWzyBcDg/viewform?usp=dialog"><img src="https://img.shields.io/badge/Responder%20avaliação-FA009A?style=for-the-badge&logo=googleforms&logoColor=white" alt="Responder avaliação"></a>
+</p>
 
 ## Quer continuar praticando?
 
