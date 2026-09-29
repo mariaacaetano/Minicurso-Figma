@@ -1,8 +1,10 @@
-# Pulse — página principal
+# Pulse — landing page
 
-Esta branch contém a página da Pulse, desenvolvida com Vue 3 e Vite.
+![Pulse landing page](https://raw.githubusercontent.com/mariaacaetano/Minicurso-Figma/materiais/cabe%C3%A7alho%20SEPE.webp)
 
-## Executar o projeto
+Esta branch contém a implementação pronta da landing page da Pulse, desenvolvida com Vue 3 e Vite.
+
+## Começar
 
 ```bash
 npm install
@@ -15,4 +17,7 @@ Para gerar a versão de produção:
 npm run build
 ```
 
-As outras etapas do minicurso estão organizadas nas branches `tutorial/main`, `tutorial/vue` e `materiais`.
+## Navegação do minicurso
+
+- [`tutorial`](https://github.com/mariaacaetano/Minicurso-Figma/tree/tutorial): passo a passo para criar a página com Vue.
+- [`materiais`](https://github.com/mariaacaetano/Minicurso-Figma/tree/materiais): apostila, slides e roteiro resumido da oficina.
