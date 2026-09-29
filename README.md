@@ -1,6 +1,6 @@
 # Minicuro Básico: Oficina de Interfaces Digitais com Figma
 
-![Material visual do minicurso](SEPE.e08e841373e04aa79490.webp)
+![Material visual do minicurso](<cabeçalho SEPE.webp>)
 
 Minicurso introdutório de criação de interfaces digitais com Figma, apresentado por Maria Fernanda Caetano.
 
