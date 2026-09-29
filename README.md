@@ -20,6 +20,7 @@ Minicurso introdutório de criação de interfaces digitais com Figma, apresenta
 - [Apostila do minicurso](Minicurso-Figma-Apostila.pdf)
 - [Slides do minicurso](Minicurso-Figma-Slides.pdf)
 - [Apostila de atalhos do Figma](<Atalhos Figma - apostila.png>)
+- [Exemplo guiado da Pulse no Figma](https://www.figma.com/design/DQiHEwg0yWNMPpImWSosiG/Exemplo-Pulse?node-id=0-1\&m=dev\&t=IuHkZucTRA14PNoT-1): passo a passo da construção do exemplo.
 
 ## Avaliação
 
