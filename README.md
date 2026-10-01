@@ -20,7 +20,7 @@ Minicurso introdutório de criação de interfaces digitais com Figma, apresenta
 Materiais para acompanhar a oficina e praticar depois:
 
 <p>
-  <a href="Minicurso-Figma-Apostila.pdf"><img src="https://img.shields.io/badge/Apostila%20do%20minicurso-FA009A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Apostila do minicurso"></a>
+  <a href="Oficina-Figma-Apostila.pdf"><img src="https://img.shields.io/badge/Apostila%20do%20minicurso-FA009A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Apostila do minicurso"></a>
   <a href="https://www.figma.com/slides/Y1rZWJ4u3RdlJtSW01h7fa/SEPE-Oficina-Slides?node-id=7-1270&t=9ZJzhkXkB8bDwVhZ-0"><img src="https://img.shields.io/badge/Slides%20do%20minicurso-FA009A?style=for-the-badge&logo=slides&logoColor=white" alt="Slides do minicurso"></a>
   <a href="https://ritzy-clock-14677210.figma.site/"><img src="https://img.shields.io/badge/Exemplo%20guiado%20no%20Figma-FA009A?style=for-the-badge&logo=figma&logoColor=white" alt="Exemplo guiado no Figma"></a>
 </p>
