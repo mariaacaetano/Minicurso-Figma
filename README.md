@@ -21,7 +21,7 @@ Materiais para acompanhar a oficina e praticar depois:
 
 <p>
   <a href="https://drive.google.com/file/d/1ebrVfP-Zl6_8yayKuBPx8e9um7C8hXbb/view?usp=sharing"><img src="https://img.shields.io/badge/Apostila%20do%20minicurso-FA009A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Apostila do minicurso"></a>
-  <a href="https://www.figma.com/deck/Y1rZWJ4u3RdlJtSW01h7fa/SEPE-Oficina-Slides?node-id=3-137&t=YWkrNj3BYTyRruRR-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"><img src="https://img.shields.io/badge/Slides%20do%20minicurso-FA009A?style=for-the-badge&logo=slides&logoColor=white" alt="Slides do minicurso"></a>
+  <a href="https://www.figma.com/deck/Y1rZWJ4u3RdlJtSW01h7fa/SEPE-Oficina-Slides?node-id=3-137&t=YGYnpVbIsyQUkoiC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"><img src="https://img.shields.io/badge/Slides%20do%20minicurso-FA009A?style=for-the-badge&logo=slides&logoColor=white" alt="Slides do minicurso"></a>
   <a href="https://ritzy-clock-14677210.figma.site/"><img src="https://img.shields.io/badge/Exemplo%20guiado%20no%20Figma-FA009A?style=for-the-badge&logo=figma&logoColor=white" alt="Exemplo guiado no Figma"></a>
 </p>
 
